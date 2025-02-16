@@ -1,5 +1,5 @@
 # Site
-name: 'XTI-CORP'
+name: '주식회사 XTI'
 description: 'Xtension information Tech'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -28,13 +28,13 @@ authors:
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    # jane:
+    #   name:           Jane
+    #   site:           https://www.wowthemes.net
+    #   avatar:         /assets/images/avatar2.jpg
+    #   bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    #   email:          fakemail@gmail.com
+    #   twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
