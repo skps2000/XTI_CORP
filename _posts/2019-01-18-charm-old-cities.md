@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
-author: jane
-categories: [ Jekyll, tutorial ]
+title:  "확장을 통해 연결을 도와줍니다."
+author: CEO
+categories: [ XTI ]
 image: assets/images/home.jpg
-tags: [sticky]
+tags: [CONNECT]
 ---
 
-Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
+주식회사 XTI 는 네트워크를 통한 확장된 삶을 살수있도록 도와줍니다.
 
 #### Early 18th century woodcut of Bucharest
 
