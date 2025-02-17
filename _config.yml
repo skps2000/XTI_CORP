@@ -1,5 +1,5 @@
 # Site
-name: 'X-TECH INFO'
+name: 'X-TECH INNOVATION'
 description: 'Xtension information Tech'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -21,10 +21,10 @@ plugins:
   
 authors:
     sal:
-      name:           Manager
+      name:           sal
       # site:           https://www.wowthemes.net
       site:           https://skps2000.github.io/XTI_CORP/
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/avatar2.jpg
       bio:            "I am the Manager of XTI_CORP"
       email:          skps2000@gmail.com
       # twitter:        https://twitter.com/wowthemesnet
