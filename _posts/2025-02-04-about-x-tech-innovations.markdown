@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "About X-TECH"
-categories: [ CORP ]
+author: manager
+categories: [ XTI ]
 image: assets/images/demo1.jpg
 ---
 XTI is well-formed company in korea.
