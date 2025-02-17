@@ -21,12 +21,14 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           Manager
       site:           https://www.wowthemes.net
+      site:           https://skps2000.github.io/XTI_CORP/
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "I am the Manager of XTI_CORP"
+      email:          skps2000@gmail.com
+      # twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://skps2000.github.io/XTI_CORP/
 
     # jane:
     #   name:           Jane
