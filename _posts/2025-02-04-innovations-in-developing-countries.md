@@ -2,7 +2,7 @@
 layout: post
 title:  "Innovations in developing countries"
 author: manager
-categories: [ Jekyll, tutorial ]
+categories: [ Essey, innovations ]
 image: assets/images/11.jpg
 ---
 개발도상국에서는 IT 기술이 단순한 편리함을 넘어, 사회적 문제를 해결하고 새로운 경제적 기회를 창출하는 데 중요한 역할을 하고 있습니다. 특히 남미와 아프리카에서는 기존 인프라의 부족을 IT 기술로 보완하며 혁신적인 사례를 만들어가고 있습니다.
