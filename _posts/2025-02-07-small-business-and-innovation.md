@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Small business and it innovation"
+title:  "Small business and IT innovation"
 author: sal
 categories: [ Tech, small business, innovation ]
 image: assets/images/6.jpg
