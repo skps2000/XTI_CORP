@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tech and social benefit "
-author: Manager
+title:  "Tech and social benefit"
+author: manager
 categories: [ Tech, social, benefit ]
 image: assets/images/15.jpg
 ---
