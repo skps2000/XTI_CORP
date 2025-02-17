@@ -14,5 +14,5 @@ permalink: "/contact.html"
     </div>
     <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>
     <!-- <input class="btn btn-success" type="submit" value="등록하기"> -->
-    <input class="btn btn-success" type="button" value="등록하기" onclick="(function(){alert('Mail has got sent');})">
+    <input class="btn btn-success" type="button" value="등록하기" onclick="(function(){alert('Mail has got sent');})()">
 </form>
