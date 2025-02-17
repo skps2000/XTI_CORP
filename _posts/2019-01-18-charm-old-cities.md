@@ -1,20 +1,19 @@
 ---
 layout: post
-title:  "확장을 통해 연결을 도와줍니다."
-author: CEO
-categories: [ XTI ]
+title:  "Connect"
+author: manager
+categories: [ XTI, Value ]
 image: assets/images/home.jpg
 tags: [CONNECT]
 ---
+오늘은 저희 기업이 IT 기술을 활용해 어떻게 가치를 만들어가고 있는지, 그리고 이 기술이 고객님과 사회에 어떤 의미를 가지는지 말씀드리고자 합니다.
 
-주식회사 XTI 는 네트워크를 통한 확장된 삶을 살수있도록 도와줍니다.
+IT 기술은 이제 단순히 효율성을 높이는 도구를 넘어, 사람과 사람, 기업과 고객, 그리고 전 세계를 연결하는 중요한 역할을 하고 있습니다. 저희는 이 기술을 통해 고객님과의 연결을 더욱 강화하고, 더 나은 서비스를 제공하는 데 집중하고 있습니다. 예를 들어, 저희가 사용하는 데이터 분석과 인공지능 기술은 고객님의 취향과 필요를 세심히 파악해, 맞춤형 서비스를 제공할 수 있도록 돕습니다. 이는 단순히 편리함을 넘어, 고객님께 더 큰 만족을 드리기 위한 노력입니다.
 
-#### Early 18th century woodcut of Bucharest
+또한, IT 기술은 저희 내부에서도 큰 변화를 가져왔습니다. 클라우드 기반의 협업 도구를 통해 전 세계에 있는 저희 팀원들이 실시간으로 소통하고 협력할 수 있게 되었고, 이를 통해 더 빠르고 혁신적인 아이디어를 만들어내고 있습니다. 이러한 변화는 저희가 더 나은 제품과 서비스를 제공할 수 있는 원동력이 되고 있습니다.
 
-The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
+하지만 저희가 IT 기술을 활용하는 이유는 단순히 효율성과 혁신 때문만은 아닙니다. 저희는 기술을 통해 사회적 책임을 다하고, 지속 가능한 미래를 만드는 데에도 기여하고자 합니다. 예를 들어, 저희는 블록체인 기술을 통해 공급망의 투명성을 높이고, 에너지 절약을 위한 IoT 기술을 적극적으로 도입하고 있습니다. 이러한 노력은 단순히 기업의 이미지를 좋게 만드는 것을 넘어, 고객님과 함께 더 나은 사회를 만들어가는 과정이라고 생각합니다.
 
-The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-16th century. Under subsequent rulers, Bucharest was established as the summer residence of the royal court. During the years to come, it competed with Târgoviște on the status of capital city after an increase in the importance of southern Muntenia brought about by the demands of the suzerain power – the Ottoman Empire.
+사실 이런 기술의 힘은 이미 많은 성공 사례를 통해 입증되고 있습니다. 전 세계 사람들을 연결한 소셜 미디어 플랫폼이나, 지속 가능한 에너지를 목표로 삼은 테슬라 같은 기업들은 IT 기술을 통해 고객과 사회 모두에게 가치를 제공하며 놀라운 성과를 보여주고 있습니다. 저희도 이러한 선례를 본받아, 고객님과의 연결을 강화하고, 더 나은 서비스를 제공하며, 사회적 책임을 다하기 위해 끊임없이 노력하고 있습니다.
 
-Bucharest finally became the permanent location of the Wallachian court after 1698 (starting with the reign of Constantin Brâncoveanu).
-
-Partly destroyed by natural disasters and rebuilt several times during the following 200 years, and hit by Caragea’s plague in 1813–14, the city was wrested from Ottoman control and occupied at several intervals by the Habsburg Monarchy (1716, 1737, 1789) and Imperial Russia (three times between 1768 and 1806). It was placed under Russian administration between 1828 and the Crimean War, with an interlude during the Bucharest-centred 1848 Wallachian revolution. Later, an Austrian garrison took possession after the Russian departure (remaining in the city until March 1857). On 23 March 1847, a fire consumed about 2,000 buildings, destroying a third of the city.
+결국, IT 기술은 저희가 고객님과 함께 성장할 수 있는 가장 중요한 도구입니다. 저희는 기술을 통해 고객님께 더 나은 가치를 제공하고, 고객님과 함께 지속 가능한 미래를 만들어가고자 합니다. 앞으로도 저희의 노력이 고객님의 삶에 긍정적인 변화를 가져올 수 있도록 최선을 다하겠습니다.
