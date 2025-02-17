@@ -1,10 +1,25 @@
 ---
 layout: post
-title:  "Accumulated experience of social living"
-author: CSK
-categories: [ MANAGER ]
+title:  "Tech and social benefit "
+author: Manager
+categories: [ Tech, social, benefit ]
 image: assets/images/15.jpg
 ---
+기술 혁신과 사회적 효용: 2000년대 기업 사례를 중심으로
+기술은 인간의 삶을 변화시키는 가장 강력한 도구 중 하나입니다. 특히 2000년대에 들어서면서 기술 혁신은 단순히 산업 발전을 넘어 사회 전반에서 효용을 증대시키는 데 중요한 역할을 했습니다. 이 시기에는 디지털 전환과 글로벌 연결성이 본격적으로 가속화되며, 여러 혁신적인 기업들이 등장해 우리의 일상과 경제 구조를 근본적으로 변화시켰습니다. 그중에서도 애플, 구글, 테슬라, 아마존, 페이스북, 그리고 넷플릭스는 각자의 분야에서 선도적인 역할을 하며 기술을 통해 사회적 효용을 극대화한 대표적인 사례로 꼽힙니다.
+
+먼저, **애플(Apple)**은 2007년 아이폰(iPhone)을 출시하며 스마트폰 혁명을 일으켰습니다. 아이폰은 단순한 휴대전화가 아니라, 인터넷, 카메라, 음악, 그리고 다양한 애플리케이션을 하나로 통합한 기기로 현대인의 필수품이 되었습니다. 특히 애플이 구축한 앱스토어(App Store)는 개발자와 사용자를 연결하는 생태계를 형성하며 새로운 비즈니스 모델을 창출했습니다. 이를 통해 개인의 소통 방식뿐만 아니라 기업의 운영 방식까지도 혁신적으로 변화시켰습니다.
+
+한편, **구글(Google)**은 "세계의 정보를 체계화하고 누구나 접근 가능하게 만든다"는 사명을 실현하며 정보 접근의 민주화를 이끌었습니다. 구글 검색엔진은 방대한 정보를 누구나 쉽게 찾을 수 있도록 하였고, 이는 학문, 비즈니스, 그리고 일상생활 전반에 걸쳐 지식의 장벽을 허물었습니다. 또한, 구글 맵은 실시간 내비게이션과 위치 기반 서비스를 제공하며 물리적 이동과 물류 산업에 혁신을 가져왔습니다. 유튜브(YouTube)의 인수와 안드로이드(Android) 운영체제의 개발은 디지털 콘텐츠 소비와 모바일 생태계를 확장시키며 현대 사회의 핵심 기술로 자리 잡았습니다.
+
+**테슬라(Tesla)**는 지속 가능한 에너지로의 전환을 가속화하며 자동차 산업과 에너지 산업에 혁신을 가져왔습니다. 2008년, 테슬라는 최초의 고성능 전기차인 로드스터(Roadster)를 출시하며 전기차 시장의 가능성을 열었습니다. 이후 테슬라는 전기차 대중화와 자율주행 기술을 통해 자동차의 개념을 하드웨어 중심에서 소프트웨어 중심으로 전환시켰습니다. 뿐만 아니라, 태양광 패널과 에너지 저장 시스템을 통해 재생 가능 에너지 활용을 확대하며 환경 문제 해결에 기여했습니다.
+
+전자상거래와 클라우드 컴퓨팅의 선두주자인 아마존(Amazon) 역시 기술을 통해 사회적 효용을 크게 향상시킨 기업 중 하나입니다. 아마존은 전자상거래 플랫폼을 통해 소비자들이 집에서도 편리하게 쇼핑할 수 있는 환경을 제공하며 전통적인 소매업의 패러다임을 변화시켰습니다. 또한, AWS(Amazon Web Services)는 기업들에게 확장 가능한 IT 인프라를 제공하며 클라우드 컴퓨팅 시장을 선도했습니다. 이러한 혁신은 기업의 운영 방식을 근본적으로 바꾸었으며, 특히 중소기업과 스타트업에게 새로운 성장 기회를 제공했습니다.
+
+**넷플릭스(Netflix)**는 스트리밍 서비스를 도입하며 콘텐츠 소비 방식을 근본적으로 변화시켰습니다. 2007년 시작된 넷플릭스의 스트리밍 서비스는 사용자가 원하는 시간에 원하는 콘텐츠를 시청할 수 있는 온디맨드(On-Demand) 환경을 제공했습니다. 이는 전통적인 TV와 영화 산업의 구조를 바꾸었으며, 글로벌 콘텐츠 접근성을 높이는 데 기여했습니다. 또한, 넷플릭스는 자체 제작 콘텐츠에 투자하며 엔터테인먼트 산업의 새로운 기준을 제시했습니다.
+
+결론적으로, 2000년대는 기술 혁신이 전 세계적으로 사회적 효용을 증대시키는 데 기여한 시기였습니다. 애플, 구글, 테슬라, 아마존, 넷플릭스와 같은 기업들은 각각의 분야에서 혁신을 이끌며 현대 사회의 모습을 근본적으로 변화시켰습니다. 이들의 성공은 단순한 기술 발전에 그치지 않고, 인간의 삶의 질을 향상시키고, 새로운 산업과 기회를 창출하며 지속 가능한 미래를 위한 방향성을 제시했다는 점에서 큰 의미를 가집니다. 그러나 이러한 혁신은 동시에 윤리적 문제와 부작용을 동반하기도 했습니다. 따라서 앞으로의 기술 발전은 사회적 책임과 함께 이루어져야 할 것입니다.
+
 The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
 
 As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
@@ -14,3 +29,4 @@ The first mass-produced book to deviate from a rectilinear format, at least in t
 An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
 
 > It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+
