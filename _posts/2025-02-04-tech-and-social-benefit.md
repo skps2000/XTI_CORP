@@ -5,7 +5,7 @@ author: Manager
 categories: [ Tech, social, benefit ]
 image: assets/images/15.jpg
 ---
-기술 혁신과 사회적 효용: 2000년대 기업 사례를 중심으로
+2000년대 기업 사례를 중심으로
 기술은 인간의 삶을 변화시키는 가장 강력한 도구 중 하나입니다. 특히 2000년대에 들어서면서 기술 혁신은 단순히 산업 발전을 넘어 사회 전반에서 효용을 증대시키는 데 중요한 역할을 했습니다. 이 시기에는 디지털 전환과 글로벌 연결성이 본격적으로 가속화되며, 여러 혁신적인 기업들이 등장해 우리의 일상과 경제 구조를 근본적으로 변화시켰습니다. 그중에서도 애플, 구글, 테슬라, 아마존, 페이스북, 그리고 넷플릭스는 각자의 분야에서 선도적인 역할을 하며 기술을 통해 사회적 효용을 극대화한 대표적인 사례로 꼽힙니다.
 
 먼저, **애플(Apple)**은 2007년 아이폰(iPhone)을 출시하며 스마트폰 혁명을 일으켰습니다. 아이폰은 단순한 휴대전화가 아니라, 인터넷, 카메라, 음악, 그리고 다양한 애플리케이션을 하나로 통합한 기기로 현대인의 필수품이 되었습니다. 특히 애플이 구축한 앱스토어(App Store)는 개발자와 사용자를 연결하는 생태계를 형성하며 새로운 비즈니스 모델을 창출했습니다. 이를 통해 개인의 소통 방식뿐만 아니라 기업의 운영 방식까지도 혁신적으로 변화시켰습니다.
@@ -20,13 +20,5 @@ image: assets/images/15.jpg
 
 결론적으로, 2000년대는 기술 혁신이 전 세계적으로 사회적 효용을 증대시키는 데 기여한 시기였습니다. 애플, 구글, 테슬라, 아마존, 넷플릭스와 같은 기업들은 각각의 분야에서 혁신을 이끌며 현대 사회의 모습을 근본적으로 변화시켰습니다. 이들의 성공은 단순한 기술 발전에 그치지 않고, 인간의 삶의 질을 향상시키고, 새로운 산업과 기회를 창출하며 지속 가능한 미래를 위한 방향성을 제시했다는 점에서 큰 의미를 가집니다. 그러나 이러한 혁신은 동시에 윤리적 문제와 부작용을 동반하기도 했습니다. 따라서 앞으로의 기술 발전은 사회적 책임과 함께 이루어져야 할 것입니다.
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
-
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
-
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
-
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
-
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+<!-- > It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.  -->
 

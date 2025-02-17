@@ -22,7 +22,17 @@ plugins:
 authors:
     sal:
       name:           Manager
-      site:           https://www.wowthemes.net
+      # site:           https://www.wowthemes.net
+      site:           https://skps2000.github.io/XTI_CORP/
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "I am the Manager of XTI_CORP"
+      email:          skps2000@gmail.com
+      # twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://skps2000.github.io/XTI_CORP/
+
+    manager:
+      name:           Manager
+      # site:           https://www.wowthemes.net
       site:           https://skps2000.github.io/XTI_CORP/
       avatar:         /assets/images/avatar1.jpg
       bio:            "I am the Manager of XTI_CORP"
