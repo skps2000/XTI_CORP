@@ -1,6 +1,6 @@
 # Site
 name: 'X-TECH INNOVATIONS'
-description: 'Xtension information Tech'
+description: 'Xtension TECH INNOVATIONS'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 # baseurl: '/mundana-theme-jekyll'
@@ -31,7 +31,7 @@ authors:
       twitter:        https://skps2000.github.io/XTI_CORP/
 
     manager:
-      name:           Manager
+      name:           manager
       # site:           https://www.wowthemes.net
       site:           https://skps2000.github.io/XTI_CORP/
       avatar:         /assets/images/avatar1.jpg
