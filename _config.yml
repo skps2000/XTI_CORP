@@ -23,22 +23,22 @@ authors:
     sal:
       name:           sal
       # site:           https://www.wowthemes.net
-      site:           https://skps2000.github.io/XTI_CORP/author-sal
-      avatar:         /assets/images/avatar1.jpg
+      site:           https://x-ti.org/author-sal
+      avatar:         https://x-ti.org/assets/images/avatar1.jpg
       bio:            "I am sal"
       email:          skps2000@gmail.com
       # twitter:        https://twitter.com/wowthemesnet
-      twitter:        https://skps2000.github.io/XTI_CORP/
+      # twitter:        https://skps2000.github.io/XTI_CORP/
 
     manager:
       name:           manager
       # site:           https://www.wowthemes.net
-      site:           https://skps2000.github.io/XTI_CORP/author-manager
-      avatar:         /assets/images/avatar1.jpg
+      site:           https://x-ti.org/author-manager
+      avatar:         https://x-ti.org/assets/images/avatar1.jpg
       bio:            "I am the Manager of XTI_CORP"
-      email:          skps2000@gmail.com
+      email:          manager@x-ti.org
       # twitter:        https://twitter.com/wowthemesnet
-      twitter:        https://skps2000.github.io/XTI_CORP/
+      # twitter:        https://skps2000.github.io/XTI_CORP/
 
     # jane:
     #   name:           Jane
@@ -57,7 +57,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: https://x-ti.org/assets/images/avatar1.jpg
       
   # all pages
   - scope:
