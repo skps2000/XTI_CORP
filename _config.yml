@@ -23,7 +23,7 @@ authors:
     sal:
       name:           sal
       # site:           https://www.wowthemes.net
-      site:           https://skps2000.github.io/XTI_CORP/
+      site:           https://skps2000.github.io/XTI_CORP/author-sal
       avatar:         /assets/images/avatar1.jpg
       bio:            "I am sal"
       email:          skps2000@gmail.com
@@ -33,7 +33,7 @@ authors:
     manager:
       name:           manager
       # site:           https://www.wowthemes.net
-      site:           https://skps2000.github.io/XTI_CORP/
+      site:           https://skps2000.github.io/XTI_CORP/author-manager
       avatar:         /assets/images/avatar1.jpg
       bio:            "I am the Manager of XTI_CORP"
       email:          skps2000@gmail.com
