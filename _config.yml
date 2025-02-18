@@ -24,7 +24,7 @@ authors:
       name:           sal
       # site:           https://www.wowthemes.net
       site:           https://x-ti.org/author-sal
-      avatar:         https://x-ti.org/assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "I am sal"
       email:          skps2000@gmail.com
       # twitter:        https://twitter.com/wowthemesnet
@@ -34,7 +34,7 @@ authors:
       name:           manager
       # site:           https://www.wowthemes.net
       site:           https://x-ti.org/author-manager
-      avatar:         https://x-ti.org/assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "I am the Manager of XTI_CORP"
       email:          manager@x-ti.org
       # twitter:        https://twitter.com/wowthemesnet
