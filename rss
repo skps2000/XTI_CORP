@@ -1,0 +1,24 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>사이트 이름</title>
+    <link>https://x-ti.org/</link>
+    <description>주식회사 엑스티아이</description>
+    <item>
+      <title>Post by manager</title>
+      <link>https://x-ti.org/author-manager</link>
+      <description>Manager of XTI_CORP</description>
+      <pubDate>2025-02-04 13:00:00</pubDate>
+      <guid>https://x-ti.org/author-manager</guid>
+    </item>
+    <item>
+      <title>콘텐츠 게시글 2</title>
+      <link>https://x-ti.org/author-sal</link>
+      <description>Employee of XTI_CORP</description>
+      <pubDate>2025-02-04 13:00:00</pubDate>
+      <guid>https://x-ti.org/author-sal</guid>
+    </item>
+  </channel>
+</rss>
