@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tech and social benefit"
+title:  "기술과 사회적인 효용성"
 author: manager
 categories: [ Tech, social, benefit ]
 image: assets/images/10.jpg
